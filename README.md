@@ -14,6 +14,5 @@ Example: the image should shown at 11 am must have the name "mojave-11-00.jpeg"
 ![logo](wallpapers/mojave-12-30.jpeg?raw=true "Day")
 ![logo](wallpapers/mojave-21-30.jpeg?raw=true "Evening")
 
-##customize
 
 
